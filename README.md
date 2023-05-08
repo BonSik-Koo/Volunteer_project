@@ -26,3 +26,4 @@
 * FrontEnd Repository : [https://github.com/project-Volunteer/Front](https://github.com/project-Volunteer/Front)
 * BackEnd Repository : [https://github.com/project-Volunteer/BackEnd](https://github.com/project-Volunteer/BackEnd)
 * Figma : [https://www.figma.com/file/LyqEvyuASlb77S11K4mMkt/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Volunteer?node-id=7-3&t=fUhPyp84S8xJShOB-0](https://www.figma.com/file/LyqEvyuASlb77S11K4mMkt/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Volunteer?node-id=7-3&t=fUhPyp84S8xJShOB-0)
+* API 명세서 : [https://docs.google.com/spreadsheets/d/1wjlkv3vQutHx7B-Mc7HFubns3YgLAbVzRSHHG__IrjU/edit#gid=2004277248](https://docs.google.com/spreadsheets/d/1wjlkv3vQutHx7B-Mc7HFubns3YgLAbVzRSHHG__IrjU/edit#gid=2004277248)
