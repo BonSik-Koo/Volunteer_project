@@ -21,8 +21,15 @@
 * 약속된 Git 컨벤션을 통한 일관된 커밋 메시지 작성
 * Git flow 전략을 통한 체계적인 브랜치 관리 
 
+
+## More info
+<details>
+  <summary>ERD</summary>
+  
+  ![erd](https://user-images.githubusercontent.com/96917871/236808831-ed12f88e-f436-4449-9602-b8bfec5f346a.png)
+  </details>
+
 ## Links
-* ERD cloud : [https://www.erdcloud.com/d/tJ8bxZnQ3YAgHzhrP](https://www.erdcloud.com/d/tJ8bxZnQ3YAgHzhrP)
 * FrontEnd Repository : [https://github.com/project-Volunteer/Front](https://github.com/project-Volunteer/Front)
 * BackEnd Repository : [https://github.com/project-Volunteer/BackEnd](https://github.com/project-Volunteer/BackEnd)
 * Figma : [https://www.figma.com/file/LyqEvyuASlb77S11K4mMkt/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Volunteer?node-id=7-3&t=fUhPyp84S8xJShOB-0](https://www.figma.com/file/LyqEvyuASlb77S11K4mMkt/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Volunteer?node-id=7-3&t=fUhPyp84S8xJShOB-0)
