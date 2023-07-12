@@ -26,7 +26,7 @@
 <details>
   <summary>ERD</summary>
   
-  ![erd](https://user-images.githubusercontent.com/96917871/236808831-ed12f88e-f436-4449-9602-b8bfec5f346a.png)
+  ![erd](![volunteer (1)](https://github.com/BonSik-Koo/Volunteer_project/assets/96917871/c4725ea5-8318-43ad-9aef-fd88e73d4c14))
   </details>
 
 ## Links
